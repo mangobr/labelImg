@@ -1,15 +1,597 @@
-dog
-person
-cat
-tv
-car
-meatballs
-marinara sauce
-tomato soup
-chicken noodle soup
-french onion soup
-chicken breast
-ribs
-pulled pork
-hamburger
-cavity
+Brown rice, cooked
+Brown rice, uncooked
+Rice, type 1, cooked
+Type 1 raw rice
+Rice, type 2, cooked
+Type 2 raw rice
+Oat flakes, raw
+Cookie, sweet, cornstarch
+Cookie, sweet, stuffed with chocolate
+Biscuit, sweet, stuffed with strawberry
+Cookie, candy, wafer, stuffed chocolate
+Cookie, candy, wafer, stuffed strawberry
+Cookie, salty, cream cracker
+Cake, mixture for
+Cake, ready, cassava
+Cake, ready, chocolate
+Cake, ready, coconut
+Cake ready for corn
+Raw, white, hominy
+Hominy, with whole milk
+Cereals, corn, flakes, with salt
+Cereals, corn, flakes, unsalted
+Cereals, porridge, corn, children's
+Cereals, vitamin mix, wheat, barley and oats
+Breakfast cereal, corn
+Breakfast cereal, corn, sugar
+Cream of rice, powder
+Corn cream, powder
+Curau, green corn
+Curau, green corn, mixture for
+Flour, rice, enriched
+Flour, rye, wholemeal
+Flour, corn, yellow
+Breadcrumbs
+Wheat flour
+Flour, dairy, cereal
+Lasagna, fresh pasta, cooked
+Lasagna, fresh, raw pasta
+Instant noodles
+Pasta, wheat, raw
+Pasta, wheat, raw, with eggs
+Corn, starch, raw
+Corn, cornmeal, raw
+Corn, green, raw
+Corn, green, canned, drained
+Traditional porridge, powder
+Pamonha, cooking bar, pre-cooked
+Bread, oats, shape
+Soy bread
+Bread, gluten, shape
+Bread, corn, shape
+Bread, wheat, shape, whole
+Bread, wheat, French
+Bread, wheat, knuckle
+Pastel, meat, raw
+Pie, meat, fried
+Pastel, cheese, raw
+Pastel, cheese, fried
+Pastel, dough, raw
+Pastel, dough, fries
+Popcorn, with soy oil, unsalted
+Polenta, pre-cooked
+Toast, French bread
+Pumpkin, cabotian, baked
+Pumpkin, cabotian, raw
+Pumpkin, Brazilian girl, raw
+Pumpkin, strawberry, raw
+Pumpkin, strawberry, braised
+Pumpkin, neck, raw
+Zucchini, Italian, cooked
+Zucchini, Italian, raw
+Zucchini, Italian, braised
+Zucchini, paulista, raw
+Chard, raw
+Cress, raw
+Celery, raw
+Raw lettuce
+Lettuce, curly, raw
+Lettuce, smooth, raw
+Lettuce, purple, raw
+Alfavaca, raw
+Garlic, raw
+Leek, raw
+Raw, raw
+Sausage, braised
+Batata, baroa, cozida
+Batata, baroa, crua
+Potato, sweet, cooked
+Potato, sweet, raw
+Potato, chips, chips, industrialized
+Potato, English, cooked
+Potato, English, raw
+Potato, english, fries
+Potato, english, sauté
+Eggplant, cooked
+Eggplant, raw
+Beets, cooked
+Beetroot, raw
+Biscuit, sweet sprinkles
+Broccoli, cooked
+Broccoli, raw
+Cara, cooked
+Cara, raw
+Caruru, crude
+Catalonia, raw
+Catalonia, braised
+Onion, raw
+Chives, raw
+Cooked carrot
+Carrot, raw
+Chicory, raw
+Chayote, cooked
+Chayote, raw
+Coriander, dried leaves
+Kale, butter, raw
+Kale, butter, braised
+Cauliflower, raw
+Cauliflower, cooked
+Spinach, New Zealand, raw
+Spinach, New Zealand, braised
+Flour, cassava, raw
+Flour, cassava, toast
+Flour, puba
+Cassava starch
+Bean, sprout, raw
+Yam, raw
+Jiló, raw
+Jurubeba, raw
+Cassava, cooked
+Cassava, raw
+Cassava, farofa, seasoned
+Cassava fries
+Basil, raw
+Gherkin, raw
+Mustard, leaf, raw
+Gnocchi, potato, cooked
+Nabo, cru
+Heart of palm, Juçara, canned
+Palm heart, pupunha, pickled
+Bread, cheese, baked
+Bread, cheese, raw
+Cucumber, raw
+Pepper, yellow, raw
+Pepper, green, raw
+Pepper, red, raw
+Sweet powder
+Okra, raw
+Radish, raw
+Cabbage, white, raw
+Cabbage, purple, raw
+Cabbage, purple, braised
+Arugula, raw
+Parsley, raw
+Vegetable selection, canned
+Milkweed, raw
+Taioba, raw
+Tomato, with seed, raw
+Tomato, extract
+Tomato, industrialized sauce
+Tomato, puree
+Tomato and salad
+Pod, raw
+Avocado, raw
+Pineapple, raw
+Pineapple, pulp, frozen
+Abiu, crude
+Açaí, pulp, with guarana syrup and glucose
+Acai, pulp, frozen
+Acerola, raw
+Acerola, pulp, frozen
+Plum, syrup, canned
+Plum, raw
+Plum, in syrup, canned, drained
+Atemoya, raw
+Banana, raw, raw
+Banana, candy bar
+Banana, fig, raw
+Banana, apple, raw
+Banana, nanica, raw
+Banana, gold, raw
+Banana, pacova, raw
+Banana, silver, raw
+Cocoa, raw
+Cajá-Manga, raw
+Cajá, pulp, frozen
+Cashew, raw
+Cashew, pulp, frozen
+Cashew, concentrated juice, packaged
+Persimmon, chocolate, raw
+Carambola, raw
+Ciriguela, raw
+Cupuaçu, raw
+Cupuaçu, pulp, frozen
+Fig, raw
+Fig, canned, in syrup
+Breadfruit, raw
+Guava, white, with shell, raw
+Guava, sweet paste
+Guava, sweet, smudge
+Guava, red, shelled, raw
+Soursop, raw
+Graviola, pulp, frozen
+Jabuticaba, raw
+Jackfruit, raw
+Hello, cru
+Jamelao, raw
+Kiwi, cru
+Orange, bay, raw
+Orange bay juice
+Orange, earthy, raw
+Orange, earthy, juice
+Orange, lime, raw
+Orange, lime, juice
+Orange, pear, raw
+Orange, pear, juice
+Orange, valencia, raw
+Orange, valencia, juice
+Lemon, cloves, juice
+Lemon, Galician, juice
+Lemon, Tahiti, raw
+Apple, Argentina, with peel, raw
+Apple, Fuji, unpeeled, raw
+Macaúba, raw
+Papaya, sweet in syrup, drained
+Papaya, Taiwan, raw
+Papaya, papaya, raw
+Green papaya, sweet in syrup, drained
+Manga, Haden, crua
+Manga, Palmer, crua
+Mango, pulp, frozen
+Mango, Tommy Atkins, raw
+Passion fruit, raw
+Passion fruit, pulp, frozen
+Passion fruit, concentrated juice, packaged
+Watermelon, raw
+Melon, raw
+Tangerine, Murcote, raw
+Mexerica, Rio, raw
+Strawberry, raw
+Loquat, raw
+Pequi, raw
+Pear, Park, raw
+Pear, Williams, raw
+Peach, Aurora, raw
+Peach, canned, in syrup
+Pine cone, raw
+Pitanga, raw
+Pitanga, pulp, frozen
+Pomegranate, raw
+Tamarindo, cru
+Tangerine, Poncã, raw
+Tangerine, Poncã, juice
+Tucuma, raw
+Umbu, cru
+Umbu pulp, frozen
+Grape, Italy, raw
+Grape, Ruby, raw
+Grape, concentrated juice, packaged
+Palm oil
+Extra virgin olive oil
+Butter with salt
+Butter without salt
+Margarine, with hydrogenated oil, with salt (65% lipids)
+Margarine, with hydrogenated oil, without salt (80% lipids)
+Margarine, with interesterified oil, with salt (65% lipids)
+Margarine, with interesterified oil, without salt (65% lipids)
+Babassu oil
+Canola oil
+Sunflower oil
+Corn oil
+Peking oil
+Soy oil
+Abadejo, fillet, frozen, roasted
+Abadejo, fillet, frozen, cooked
+Abadejo, fillet, frozen, raw
+Abadejo, fillet, frozen, grilled
+Tuna, preserved in oil
+Tuna, fresh, raw
+Cod, salted, raw
+Cod, salted, braised
+Dogfish, sliced, with wheat flour, fried
+Dogfish, put, cooked
+Dogfish put raw
+Shrimp, Rio Grande, large, cooked
+Shrimp, Rio Grande, large, raw
+Shrimp, Seven Beards, without head, with shell, fried
+Crab, cooked
+Corimba, raw
+Corimbatá, roasted
+Corimbatá, cooked
+Freshwater corvina, raw
+Raw sea corvina
+Large, roasted corvina
+Large corvina, cooked
+Fresh, golden water
+Lambari, frozen, raw
+Lambari, frozen, fried
+Lambari, fresh, raw
+Manjuba, with wheat flour, fried
+Manjuba, frita
+Merluza fillet, roasted
+Merluza fillet, raw
+Hake, fillet, fried
+Hake, white, raw
+Hake, white, fried
+Hake, fillet, with wheat flour, fried
+Hake, fillet, raw
+Hake, fillet, fried
+Hake, fillet, marinated sauce
+Pescadinha, raw
+Painted, roasted
+Painted, raw
+Painted, grilled
+Piggy, raw
+Salmon, fillet, with skin, fresh, grilled
+Salmon, skinned, fresh, raw
+Salmon, skinned, fresh, grilled
+Grilled sardines
+Sardines, preserved in oil
+Sardine, fried
+Sardine, whole, raw
+Peacock bass fillet frozen raw
+Alleged
+Meat broth, tablets
+Chicken broth, tablet
+Meat, beef, ground beef, ground, cooked
+Beef, beef, ground beef, ground, raw
+Meat, beef, beef, without fat, cooked
+Meat, beef, beef, without fat, raw
+Meat, beef, meatballs, raw
+Meat, beef, meatballs, fries
+Meat, beef, tripe, cooked
+Carne, bovina, bucho, cru
+Meat, beef, fillet cover, with fat, raw
+Meat, beef, fillet cover, with fat, grilled
+Meat, beef, fillet cover, fat-free, raw
+Meat, beef, fillet cover, fat-free, grilled
+Meat, beef, beef jerky, cooked
+Meat, beef, beef jerky, raw
+Beef, beef, veal, breaded
+Meat, beef, rib kebabs, raw
+Beef, beef, rib fillet, grilled
+Beef, beef, kebabs, with fat, raw
+Beef, beef, kebabs, with fat, grilled
+Meat, beef, kebabs, fat-free, raw
+Meat, beef, kebabs, fat-free, grilled
+Beef, beef, ribs, roasted
+Beef, beef, rib, raw
+Meat, bovine, hard leg, without fat, cooked
+Meat, beef, crust, without fat, raw
+Meat, bovine, limp, without fat, cooked
+Meat, bovine, limp, without fat, raw
+Beef, beef, termite, roast
+Beef, beef, termite, raw
+Meat, beef, liver, raw
+Beef, beef, liver, grilled
+Meat, beef, fillet mingnon, fat-free, raw
+Meat, beef, fillet mingnon, fat-free, grilled
+Meat, beef, flank, without fat, cooked
+Meat, beef, flank, fat-free, raw
+Meat, beef, flank steak, with fat, cooked
+Meat, beef, flank steak, with fat, raw
+Meat, beef, lizard, cooked
+Meat, beef, lizard, raw
+Beef, beef, tongue, cooked
+Meat, beef, tongue, raw
+Meat, bovine, titty, raw
+Beef, beef, titty, grilled
+Meat, beef, rump kernels, fat-free, raw
+Meat, beef, rump kernels, fat-free, grilled
+Meat, beef, muscle, fat-free, cooked
+Meat, beef, muscle, fat-free, raw
+Meat, bovine, palette, with fat, raw
+Meat, beef, palette, fat-free, cooked
+Meat, beef, palette, fat-free, raw
+Meat, beef, duckling, fat-free, raw
+Meat, beef, duckling, fat-free, grilled
+Meat, beef, brisket, without fat, cooked
+Meat, beef, brisket, fat-free, raw
+Meat, beef, picanha, with fat, raw
+Beef, beef, picanha, with fat, grilled
+Meat, bovine, picanha, fat-free, raw
+Meat, beef, sirloin, fat-free, grilled
+Meat, beef, dried, cooked
+Meat, beef, dry, raw
+Fried chicken drumstick
+Croquete, carne, raw
+Croquettes, meat, fried
+Chicken pie, pre-cooked, roasted
+Pie, chicken, pre-cooked
+Chicken, wing, with skin, raw
+Chicken, redneck, whole, with skin, cooked
+Chicken, redneck, whole, skinless, cooked
+Chicken, heart, raw
+Chicken, heart, grilled
+Chicken, thigh, with skin, roasted
+Chicken, thigh, with skin, raw
+Chicken, thigh, skinless, cooked
+Chicken, thigh, skinless, raw
+Chicken, liver, raw
+Chicken, fillet, breaded
+Chicken, whole, with skin, raw
+Chicken, whole, skinless, roasted
+Chicken, whole, skinless, cooked
+Chicken, whole, skinless, raw
+Chicken, breast, with skin, roasted
+Chicken, breast, with skin, raw
+Chicken, breast, skinless, cooked
+Chicken, breast, skinless, raw
+Chicken, breast, skinless, grilled
+Chicken, drumstick, with skin, roasted
+Chicken, drumstick, with skin, raw
+Chicken, drumstick, skinless, roasted
+Chicken, drumstick, skinless, raw
+Hamburger, beef, raw
+Hamburger, beef, fried
+Burger, beef, grilled
+Sausage, chicken, raw
+Sausage, chicken, fries
+Sausage, chicken, grilled
+Sausage, pork, raw
+Sausage, pork, fries
+Sausage, pork, grilled
+Mortadela
+Turkey, frozen, roasted
+Turkey, frozen, raw
+Pork, chop, raw
+Pork, chop, fries
+Pork, steak, grilled
+Pork rib roasted
+Pork rib raw
+Pork, tenderloin, roasted
+Pork, loin, raw
+Pork ear salted raw
+Pork, shank, roasted
+Pork shank raw
+Pig, tail, salty, raw
+Ham, with fat cover
+Ham, without fat cover
+Roasted kebab
+Kibe Cru
+Kibe Fried
+Salame
+Bacon, raw
+Bacon, fried
+Milk drink, peach
+Milk cream
+Natural yogurt
+Yogurt, natural, skimmed
+Yogurt, pineapple flavor
+Yogurt, strawberry flavor
+Yogurt, peach flavor
+Condensed milk
+Goat milk
+Milk, cow, chocolate
+Skimmed, cow's milk, powder
+Skim milk, cow, UHT
+Milk, cow, whole
+Milk, cow, whole, powder
+Fermented milk
+Cheese, mines, fresco
+Cheese, mines, half cure
+Cheese, mozzarella
+Parmesan cheese
+Cheese, pasteurized
+Cheese, petit suisse, strawberry
+Cheese plate
+Maria mole
+Ricotta cheese
+Isotonic drink, varied flavors
+Coffee, infusion 10%
+Sugarcane, brandy 1
+Cana, hot de
+Beer, pilsen 2
+Tea, fennel, infusion 5%
+Tea, mate, 5% infusion
+Tea, black, infusion 5%
+Coconut, water
+Soda, tonic water type
+Coolant, cola type
+Soda, like guarana
+Soda, orange type
+Soda, lemon type
+Cheese omelet
+Egg, quail, whole, raw
+Egg, chicken, white, cooked / 10minutes
+Egg, chicken, yolk, cooked / 10minutes
+Egg, chicken, whole, cooked / 10minutes
+Egg, chicken, whole, raw
+Egg, chicken, whole, fried
+Chocolate powder
+Crystal Sugar
+Brown sugar
+Refined sugar
+Milk chocolate
+Chocolate, milk, with Brazil nuts
+Chocolate, milk, dietary
+Semisweet chocolate
+White cocada
+Sweet, pumpkin, creamy
+Sweet Creamy Milk
+Jam, mocotó, natural
+Corn Glucose
+Maria mole
+Maria mole, burnt coconut
+Marmalade
+Bee's honey
+Honeydew
+quindim
+Rapadura
+Coffee, powder, roasted
+Cappuccino, powder
+Baking powder, chemical
+Yeast, biological, yeast, tablet
+Gelatin, assorted flavors, powder
+Salt, dietary
+Coarse salt
+Shoyu
+Salt-based seasoning
+Olive, black, canned
+Olive, green, pickle
+Whipped cream, spray, with vegetable fat
+Coconut milk
+Mayonnaise, traditional with eggs
+acarajé
+Carrier rice
+Baião de dois, rice and string beans
+Barreado
+Steak on horseback, with fillet
+Rice balls
+Shrimp from Bahia
+Cabbage Cigar
+Couscous, corn, cooked with salt
+Couscous Paulista
+Cuxá, sauce
+tripe
+Beef stroganoff
+Chicken stroganoff
+Miner Trooper Beans
+feijoada
+Chicken With Saffron
+Pasta, bolognesa sauce
+Manichoba
+Quibebe
+Vegetable salad with mayonnaise
+Steamed vegetable salad
+Chicken salami
+Sarapatel
+Sheet
+Tacaca
+Tapioca, with butter
+Tucupi, with sweet pepper
+Jammed cow
+Vatapa
+Facing São Paulo
+Yakisoba
+Peanut, grain, raw
+Peanuts, roasted, salted
+Peas in pods
+Pea, canned, drained
+Beans, carioca, cooked
+Beans, carioca, raw
+Beans, fradinho, cooked
+Beans, fradinho, raw
+Beans, corn, cooked
+Beans, oars, raw
+Beans, black, cooked
+Beans, black, raw
+Beans, brindle, cooked
+Beans, brindle, raw
+Beans, rosemary, cooked
+Beans, rosinha, raw
+Beans, purple, cooked
+Beans, purple, raw
+Chickpeas, raw
+Guandu, cru
+Lentils, cooked
+Lentil, raw
+Paçoca, peanuts
+Peanut brittle, peanut
+Soy, flour
+Soy, soluble, natural extract, fluid
+Soy, soluble extract, powder
+Soy, cheese (tofu)
+Tremoço, cru
+Pickled lupine
+Almond, roasted, salted
+Cashews, roasted, salted
+Brazil nuts, raw
+Coconut, raw
+Coconut, green, raw
+Flour, babassu mesocarp, raw
+Sesame seed
+Flaxseed, seed
+Pinion, cooked
+Pupunha, cooked
+Walnut, raw
